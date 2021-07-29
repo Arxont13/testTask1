@@ -1,0 +1,16 @@
+This test uses to check translation of the test word 
+from 'Русский' to 'Английский'
+
+Test-case
+ID: translation_1
+
+There is no Initial Conditions
+
+STR
+1. Go to url: "https://translate.google.ru/"
+2. Input russian word 'солнце' in left input
+3. Click on upper button to choose 'Английский' language for translation
+
+Expected result:
+Right field must contain word 'Sun'
+

@@ -1,0 +1,17 @@
+This test uses to check translation of the test english word 
+from 'Русский' to 'Английский'
+
+Test-case
+ID: negative_translation_1
+
+There is no Initial Conditions
+
+STR
+1. Go to url: "https://translate.google.ru/"
+2. Input word 'Sun' in left input
+3. Click on upper button on the top if right input 
+to choose 'Английский' language for translation
+
+Expected result:
+Right field must contain word 'Sun'
+

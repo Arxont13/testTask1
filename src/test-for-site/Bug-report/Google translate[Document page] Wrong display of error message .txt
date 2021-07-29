@@ -1,0 +1,49 @@
+Google translate[Document page] Wrong color of error message 
+
+Created Date: 2021.29.07
+
+Status: Open
+
+Priority: (___) <--This field should be declared by Project Manager
+
+Severity: Trial
+
+Incident Type: Bug
+
+Category: Design 
+
+Project build version: v1.0
+
+Fix version: none
+
+Reporter: Konstantin(QA engineer)
+
+Assignee: Michael(man, who will take care about this bug)
+
+Labels: (For eazy searching)
+Design, Message, Document page
+
+Reproduced on: 
+Browser: Chromium vers 92.0.4515.107, (x64)
+OS: Windows 10, Professional
+
+Reproducibility: always
+
+Workaround: no
+
+Precondition data: no
+
+STR(Steps To Reproduce)
+1.Go to https://translate.google.ru/?sl=ru&tl=en&op=translate
+2.Click on button 'Документы'
+3.Click on button 'Выбрать на компьютере'
+4.Choose any .php format file to uppload 
+
+Actual result:
+(Actual_result.jpg)
+
+Expected result: 
+Color of error message's plate should be dark yellow.
+(Here is the link to Specification or Design or Prototype)
+
+Symptom: cosmetic flaw

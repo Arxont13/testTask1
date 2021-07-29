@@ -1,0 +1,16 @@
+This test uses to check correct enter on the different page throgh 
+clicking on link "Rules and Principles" in burger menu
+
+Test-case
+ID: links_1
+
+There is no Initial Conditions
+
+STR
+1. Go to url: "https://translate.google.ru/"
+2. Click on burger at the left top corner
+3. Click on "Rules and Principles"
+
+Expected result:
+Url after step 3 change on 'https://policies.google.com/?hl=ru'
+

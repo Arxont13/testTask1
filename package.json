@@ -1,0 +1,21 @@
+{
+  "name": "mytry",
+  "version": "1.0.0",
+  "description": "Try to learn make scrapper on puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack --w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.biturban.tech/expanse/delsys/web-ui-test"
+  },
+  "author": "Legat255",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "puppeteer": "^7.1.0",
+    "puppeteer-core": "^7.1.0"
+  }
+}
