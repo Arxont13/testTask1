@@ -11,19 +11,7 @@ const headless = true
 let browser;
 let testingURL = 'https://policies.google.com/?hl=ru';/**/
 
-/*
-class MainClass {
-    async checkAccert(text){
-        console.log(text)
-    }
-    async createBrowserInstance(){
-        return (
-        await puppeteer.launch({args:[`--disable-setuid-sandbox`,`--start-maximized`]
-           ,headless: false, timeout: 20000})
-        )
-    }
-}
-*/
+
 const stringXpath = {
     btnBurgerNewPages: "//html/body/div[2]/header/div[2]/div[1]/div[1]",
     linkRulesAndPrinciplesSubpage: "/html/body/div[2]/header/div[1]/div/div[2]/div/c-wiz/nav/div[2]/a[1]",

@@ -4,12 +4,14 @@ from 'Русский' to 'Английский'
 Test-case
 ID: translation_1
 
+Browser: Chrome vers 92.0.4515.107, (x64)
+
 There is no Initial Conditions
 
 STR
 1. Go to url: "https://translate.google.ru/"
 2. Input russian word 'солнце' in left input
-3. Click on upper button to choose 'Английский' language for translation
+3. Click on upper button on top of right input to choose 'Английский' language for translation
 
 Expected result:
 Right field must contain word 'Sun'

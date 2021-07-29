@@ -24,7 +24,7 @@ Labels: (For eazy searching)
 Design, Message, Document page
 
 Reproduced on: 
-Browser: Chromium vers 92.0.4515.107, (x64)
+Browser: Chrome vers 92.0.4515.107, (x64)
 OS: Windows 10, Professional
 
 Reproducibility: always

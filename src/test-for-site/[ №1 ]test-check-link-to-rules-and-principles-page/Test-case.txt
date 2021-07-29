@@ -4,6 +4,8 @@ clicking on link "Rules and Principles" in burger menu
 Test-case
 ID: links_1
 
+Browser: Chrome vers 92.0.4515.107, (x64)
+
 There is no Initial Conditions
 
 STR
